@@ -8,7 +8,7 @@ A custom-built enterprise server designed for localized Large Language Model (LL
 * **CPU:** Intel Xeon E5-1620 v3 (4 Cores @ 3.50GHz)
 * **GPU:** NVIDIA Tesla P40 (24GB GDDR5) for AI Inference
 * **Cooling:** Custom 3D-printed shroud with high-static pressure fan mod for passive GPU cooling
-* **RAM:** 32GB DDR4 ECC
+* **RAM:** 16GB DDR4 ECC
 
 ## Software Stack
 * **OS:** Ubuntu Server 24.04 LTS (Headless)
